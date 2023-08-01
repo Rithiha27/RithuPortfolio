@@ -24,7 +24,7 @@ const Home = () => {
       </div>
     </div>
     <div className="card">
-          <img src="rithi2.jpg" alt="" style={{ width: 100, height: 100 }}></img>
+          <img src="baby.jpg" alt="" style={{ width: 100, height: 100 }}></img>
           <h5>Rithi</h5>
           <div className="c1">
             <h3>🔤Fonts</h3>
